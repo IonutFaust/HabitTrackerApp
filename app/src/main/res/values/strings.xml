@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">HabitTrackerApp</string>
+
+<!-- Label for overflow menu option that inserts fake habit data into the app [CHAR LIMIT=20] -->
+<string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+<!-- Label for overflow menu option that deletes all habit data in the app [CHAR LIMIT=20] -->
+<string name="action_delete_all_entries">Delete All Habits</string>
+
+<!-- Title for the activity to add a new habit[CHAR LIMIT=20] -->
+<string name="editor_activity_title_new_habit">Add a habit</string>
+
+<!-- Label for editor menu option to save habit  and leave editor [CHAR LIMIT=20] -->
+<string name="action_save">Save</string>
+
+<!-- Label for editor overflow menu option that deletes the current habit [CHAR LIMIT=20] -->
+<string name="action_delete">Delete</string>
+
+<!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+<string name="category_overview">Overview</string>
+
+<!-- Label for regularity information in the editor [CHAR LIMIT=30] -->
+<string name="category_regularity">Regularity</string>
+
+<!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+<string name="hint_habit_name">Habit</string>
+
+<!-- Text hint for time field in the editor [CHAR LIMIT=30] -->
+<string name="hint_habit_time">Time</string>
+
+<!-- Text hint for location field in the editor [CHAR LIMIT=30] -->
+<string name="hint_habit_location">Location</string>
+
+<!-- Label for dropdown menu option if the habit's regularity is daily [CHAR LIMIT=20] -->
+<string name="regularity_daily">daily</string>
+
+<!-- Label for dropdown menu option if the habit is weekly [CHAR LIMIT=20] -->
+<string name="regularity_weekly">weekly</string>
+
+<!-- Label for dropdown menu option if the habit is monthly [CHAR LIMIT=20] -->
+<string name="habit_monthly">monthly</string>
+</resources>
